@@ -61,7 +61,7 @@ public String verify(Users users) {
 				(new UsernamePasswordAuthenticationToken(users.getUsername(), users.getPassword()));
 		
 				if(authentication.isAuthenticated()){
-				return jwtService.generateToken();
+				return jwtService.generateToken(users);
 				}
 		return "fails";
 	}

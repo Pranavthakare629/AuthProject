@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: pdt.Thakare_Enterprises.ThakareEnterprisesApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.751 s -- in pdt.Thakare_Enterprises.ThakareEnterprisesApplicationTests
